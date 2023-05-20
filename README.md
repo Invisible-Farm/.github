@@ -20,6 +20,7 @@ Dependencies
 This service has dependencies on other services.
 - IVFM Frontend: https://github.com/Invisible-Farm/glitch-frontend
 - IVFM Backend: https://github.com/Invisible-Farm/glitch-backend
+- IVFM Nest(for minting): https://github.com/Invisible-Farm/glitch-nest-server
 - IVFM Contract: https://github.com/Invisible-Farm/glitch-contract
 - IVFM Verifier: https://github.com/Invisible-Farm/glitch-verifier-server
 - PostgreSQL: https://www.postgresql.org/
