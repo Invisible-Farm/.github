@@ -1,4 +1,4 @@
-## glitch-frontend
+## About IVFM `Invisible Farm`
 Invisible Farm is a community-driven tool that cultivates and captures the intangible values inherent in human relationships. Through the utilization of NFTs, it visualizes and enhances these values, ultimately adding value to them.
 
 At the core of our philosophy lies the ambition to capture the essence and worth exchanged between individuals. This fundamental principle propelled the inception of our project, as we recognized the invaluable contributions made by individuals within communities that transcend conventional metrics such as labor, knowledge, and skills. These contributors, encompassing mood makers and advisors, exert a positive influence on others through their embodiment of values like passion, trust, and humor. However, quantifying and appropriately rewarding their impact presents a significant challenge. While hard skills can be easily measured, soft skills remain qualitative in nature, making them harder to demonstrate.
@@ -12,8 +12,6 @@ To this end, we have introduced a letter-writing approach wherein community memb
 Finally, our platform encompasses My Value Mapping, featuring a comprehensive Vibe Map and Value Chart. This dynamic component enables individuals to showcase and share their soft skills and capabilities, grounded in the certificates and NFTs they have received.
 
 Through our innovative and intricately designed system, we strive to revolutionize the paradigm of value recognition and appreciation within communities, fostering a culture that thrives on the essence of intangible yet indispensable contributions.
-
-You can check the demo of this website through http://1.234.5.209/ivfm/.
 
 
 
